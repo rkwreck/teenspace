@@ -6,3 +6,5 @@ Constant reminders of safety ensure that teenagers are aware of how to protect t
 
 <img width="398" alt="Screen Shot 2022-10-30 at 5 16 49 PM" src="https://user-images.githubusercontent.com/89210546/198909039-dbe68622-ee91-4de3-bf36-32f7216ebc01.png">
 
+
+*Developed by Rini Khandelwal '24.*
