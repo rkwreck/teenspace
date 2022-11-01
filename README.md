@@ -9,11 +9,45 @@ Constant reminders of safety ensure that teenagers are aware of how to protect t
 
 *Developed by Rini Khandelwal '24.*
 
-Watch video demonstration [here](https://www.youtube.com/watch?v=naBnWbFyFP8).
+Watch video demonstration [here](https://youtu.be/1fX_1GdAOIQ).
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Research was derived from the following sources: 
+
+[Run, Hide, Fight – Active Shooter Protocol](https://www.smcm.edu/publicsafety/run-hide-fight-active-shooter-protocol/)
+
+[Gunsafety Pre Post](https://www.etsu.edu/institute/child-family-health/documents/gunsafety_pre_post_.pdf)
+
+[National Drug & Alcohol IQ Challenge](https://create.kahoot.it/details/0c339ba3-618a-4fae-a89d-c02a917e33d2)
+
+[Stop. Think. Connect. Online Safety Quiz](https://www.safecommunitiesportugal.com/wp-content/uploads/2021/03/STC-Social-Media-and-Computer-Safety-Quiz.pdf)
+
+[Are You Smart Online? Quiz](https://www.childnet.com/resources/the-adventures-of-kara-winston-and-the-smart-crew/are-you-smart-online-quiz/)
+
+[Is Online Dating Safe or Risky?](https://wordwall.net/resource/2939983/is-online-dating-safe-or-risky)
+
+[K2S Internet Safety](https://www.highspeedtraining.co.uk/hub/wp-content/uploads/2019/10/Internet_safety_quiz.pdf)
+
+[Internet Safety Quiz](https://www.senecahs.org/pages/uploaded_files/Internet%20Safety%20Quiz.pdf)
+
+[Cyber Safety Quiz](https://www.esmart.org.au/media/1698/cyber-safety-quizkarratha-wa.pdf)
+
+[Young Workers Safety Quiz Result](https://www.mysafetysign.com/xp/quizresult.aspx?eqs=FBB3et1CoRlJxPIQs9oTf8IvaFRjHub35Z42e4WyhEbpfiTJkm6S4YaBLYRCMMJuAGcmup7P2n%2bbH73XDjPR%2bnyn%2f4rtbkF1ZqG3JXpd8KQYvYzo48s9lqa0n9KsGQWMtJMULWBF0vMrOcRkLNYxTy775tTnvzS1B5YtK7mJToP8wKGkq2lLIl6yxvWjuc1d)
+
+[A Safety Quiz for Your Middle-School](https://www.familyeducation.com/quizzes/teen-health-safety/safety-quiz-your-middle-schooler)
+
+[Quiz! Are You Cyber Safe?](https://www.kidzworld.com/quiz/are-you-cyber-safe/question/4714)
+
+[Internet Safety: Internet Safety Quiz](https://edu.gcfglobal.org/en/internetsafety/internet-safety-quiz/1/)
+
+[The New Driver Safety Quiz](https://play.howstuffworks.com/quiz/the-new-driver-safety-quiz)
+
+[Teen Driving Safety Resource Page](https://www.farmers.com/content/dam/farmers/marketing/digital/aem/pdfs/misc/Teen_Driving_Safety_Resource_Page_FCS-0997-21_V07.pdf)
+
+[How Healthy is Your Relationship?](https://shelteringwings.org/wp-content/uploads/2020/08/Healthy-Relationship-Quiz-Fillable.pdf)
+
+[24 Signs You’re In A Toxic Relationship And Need To Let Go](https://www.womenshealthmag.com/relationships/a19739065/signs-of-toxic-relationship/)
 
 
 
