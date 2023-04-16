@@ -9,7 +9,7 @@ Constant reminders of safety ensure that teenagers are aware of how to protect t
 
 *Developed by Rini Khandelwal '24.*
 
-Watch video demonstration [here](https://youtu.be/1fX_1GdAOIQ).
+Watch video demonstration [here](https://youtu.be/eDeRWHvurzY).
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
