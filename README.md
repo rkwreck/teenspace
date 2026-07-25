@@ -1,4 +1,4 @@
-# Teensapce is recognized by US Congress. See press releases: 
+# TeenSpace is recognized by US Congress. See press releases: 
 
 [District Press Release](https://levin.house.gov/media/press-releases/rep-levin-announces-winner-of-2022-congressional-app-challenge)
 
@@ -6,10 +6,15 @@
 
 [News Press Release](https://fox5sandiego.com/news/local-news/north-county-student-wins-congressional-app-challenge/)
 
+TeenSpace was developed in response to the school shooting epidemic, which targeted my own highschool two days after Uvalde.   
+
+We didn't know how to react, except with fear. We need a root solution for the epidemic. In the meantime, teens need resources to grapple with the issue. 
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Why TeenSpace?
-Most teens are only reminded about safety regarding the aforementioned topics through school assemblies that hardly last an hour long. In addition, teens often find these assemblies boring and don't take them seriously. Even worse, these school assemblies usually only happen once a year, so teens aren't regularly reminded of what they should do. 
+Most teens are only reminded about safety regarding the aforementioned topics through school assemblies that hardly last an hour long. In addition, teens often find these assemblies boring and don't take them seriously. Even worse, these school assemblies usually only happen once a year, so teens aren't regularly reminded of what they should do nor are they in practice of it. 
 
 Constant reminders of safety ensure that teenagers are aware of how to protect themselves if they're faced with dangerous situations. Games can be opened anywhere, anytime – and they're fun and engaging. TeenSpace is a trivia-style iOS app that reminds teens of safety procedures, providing specific scenarios so teens know exactly what to do rather than have a vague gist. The Spaces that teens can explore include active shooter safety, cybersafety, driving safety, drug safety, and dating safety. 
 
