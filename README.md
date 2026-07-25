@@ -1,3 +1,13 @@
+# Teensapce is recognized by US Congress. See press releases: 
+
+[District Press Release](https://levin.house.gov/media/press-releases/rep-levin-announces-winner-of-2022-congressional-app-challenge)
+
+[Congressional Press Release](https://www.congressionalappchallenge.us/22-ca49/)
+
+[News Press Release](https://fox5sandiego.com/news/local-news/north-county-student-wins-congressional-app-challenge/)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Why TeenSpace?
 Most teens are only reminded about safety regarding the aforementioned topics through school assemblies that hardly last an hour long. In addition, teens often find these assemblies boring and don't take them seriously. Even worse, these school assemblies usually only happen once a year, so teens aren't regularly reminded of what they should do. 
 
